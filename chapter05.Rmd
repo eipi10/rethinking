@@ -2,7 +2,7 @@
 title: "Chapter 05"
 author: "Scott Spencer"
 date: "8/22/2018"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
